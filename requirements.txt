@@ -1,3 +1,4 @@
 pandas
 roboflow==0.2.20
+Roboflow
 pathlib
